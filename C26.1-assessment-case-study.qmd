@@ -5,11 +5,11 @@ author:
   - name: Ben Waugh
     email: b.waugh@ucl.ac.uk
     corresponding: true
-    affiliations: University College London
+    affiliations: Department of Physics and Astronomy, UCL
   - name: Rebecca Chislett
-    affiliations: University College London
+    affiliations: Department of Physics and Astronomy, UCL
   - name: Louise Dash
-    affiliations: University College London
+    affiliations: Department of Physics and Astronomy, UCL
 ---
 
 This informal case study describes how assessment is implemented in an introductory programming course for first-year undergraduates studying physics. It is not offered as a model to follow, but we hope someone developing a similar course (not necessarily in the same domain) will learn something from the approaches we have used, and how we have adapted them over time.
